@@ -1,0 +1,5 @@
+- Hướng dẫn cài đặt camera an ninh:
+	+ Mở Terminal
+	+ cd 1921050631_NguyenVanTruong
+	+ chạy lệnh: pip install -r requirements.txt
+	+ mở chương trình: python main.py
